@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@aria-label=\"Minimum Value, US Dollar\"]"
+}

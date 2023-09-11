@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@class=\"brm__item-label\" and text()=\"Screen Size: 5.5 - 5.9 in\"]"
+}

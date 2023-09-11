@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@role=\"radio\" and @value=\"Asia\"]"
+}

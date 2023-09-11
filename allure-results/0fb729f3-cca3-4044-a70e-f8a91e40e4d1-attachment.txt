@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//span[@class=\"brm__flyout__btn-label\"])[1]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@class=\"cbx x-refine__multi-select-cbx\" and text()=\"5.0 - 5.4 in\"]"
+}
